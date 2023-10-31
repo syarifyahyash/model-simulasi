@@ -1,6 +1,12 @@
-# model-simulasi
+# Model Simulasi - ID
+Menghitung Antrian POM BENSIN
 
-### Tugas Model Simulasi
+# Persyaratan
+1. Python
+2. Pandas Module
+
+# Simulation Model - EN
+Counting the queue at the petrol station
 
 # Requirement
 1. Python
